@@ -3,12 +3,12 @@
   src: url(./Mileast\ Italic.otf);
 }
 @font-face {
-    font-family: sinoreta;
-    src: url(./Sinoreta_PERSONAL_USE_ONLY.otf);
+  font-family: sinoreta;
+  src: url(./Sinoreta_PERSONAL_USE_ONLY.otf);
 }
 @font-face {
-    font-family:nothing dot font;
-    src: url(./nothing\ dot\ font.otf);
+  font-family: nothing dot font;
+  src: url(./nothing\ dot\ font.otf);
 }
 * {
   margin: 0;
@@ -37,7 +37,6 @@ h1 {
 p {
   font-size: 15px;
   color: brown;
-  
 }
 #shortform {
   color: black;
@@ -52,18 +51,16 @@ p {
   color: brown;
   font-family: luxury font;
 }
-div{
-
-    height: 25%;
-    width: 25%;
-    background-color: rgba(133, 126, 126, 0.844);
-    font-family: nothing dot font;
-    margin: 50px;
-    padding: 20px;
-    border-radius: 10px;
+div {
+  height: 35%;
+  width: 40%;
+  background-color: rgba(133, 126, 126, 0.844);
+  font-family: nothing dot font;
+  margin: 50px;
+  padding: 20px;
+  border-radius: 10px;
 }
-#code{
-    font-family: 'Times New Roman', Times, serif;
-    padding: 20px;
-    font-size: 15px;
+#code {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 15px;
 }
